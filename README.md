@@ -8,6 +8,6 @@ Thank you for visiting this temporary repository! Here, you'll find **previews o
 > The handouts may contain refuses, grammar and syntax error as well as conceptual errors or misunderatndings: I am human, I can make mistakes, if something does not click in your head, check it by yourself.
 
 ### 📩 Contact
-Click the **Contact** button below to send me a message, and we can discuss any questions or arrange access to additional resources.
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-8A2BE2?style=flat)](https://t.me/caputcaprarum)
+Click the [![Contact Me](https://img.shields.io/badge/Contact%20Me-8A2BE2?style=flat)](https://t.me/caputcaprarum) button to send me a message, and we can discuss any questions or arrange access to full handouts.
+
 
