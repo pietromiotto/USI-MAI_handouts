@@ -10,7 +10,15 @@ Thank you for visiting this temporary repository! Here, you'll find **previews o
 
 ### 📩 Contact
 Click the [![Contact Me](https://img.shields.io/badge/Contact%20Me-8A2BE2?style=flat)](https://t.me/caputcaprarum) button to send me a message, and we can discuss any questions or arrange access to full handouts.
-
+---
 ![Just a Meme](https://preview.redd.it/yqugry85uio31.jpg?width=640&crop=smart&auto=webp&s=cacb438953ec3df7637aa0ed820fe18a7cb9514a)
+
+---
+
+> ### ⚠️ Browser Compatibility Notice
+> Some browsers, such as **Safari**, may not fully support GitHub's built-in PDF viewer. As a result, PDF files might not display correctly. If you experience issues, try using a different browser (e.g., Chrome or Firefox) or download the PDF to view it locally.
+
+
+
 
 
