@@ -9,4 +9,5 @@ Thank you for visiting this temporary repository! Here, you'll find **previews o
 
 ### 📩 Contact
 Click the **Contact** button below to send me a message, and we can discuss any questions or arrange access to additional resources.
-[(https://img.shields.io/badge/Contact%20Me-8A2BE2)](https://t.me/caputcaprarum)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-8A2BE2?style=flat)](https://t.me/caputcaprarum)
+
