@@ -1,6 +1,8 @@
 # GliiInDISPENSAbili - Handouts Repository 📚
 ## USI Master of Artificial Intelligence
 
+![Alt Text](https://preview.redd.it/yqugry85uio31.jpg?width=640&crop=smart&auto=webp&s=cacb438953ec3df7637aa0ed820fe18a7cb9514a)
+
 Thank you for visiting this temporary repository! Here, you'll find **previews of notes and handouts** I've created to study. They are extremely useful since they speed up the process of studying on slides. These are not summaries or in-class notes, but well-written handouts that merge lecture recoridngs and slides (as well as additional explanations if needed). Feel free to navigate trough the previews hosted on this github repository to see if they may come handy. If you are interested in the full handouts, contact me (button below).
 
 > ### ⚠️ Important Notice
