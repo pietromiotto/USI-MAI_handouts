@@ -1,11 +1,11 @@
 # Gli inDISPENSAbili - Handouts Repository 📚
 ## USI Master of Artificial Intelligence
 
-Thank you for visiting this temporary repository! Here, you'll find **previews of notes and handouts** I've created to study. They are extremely useful since they speed up the process of studying on slides. These are not summaries or in-class notes, but well-written handouts that merge lecture recoridngs and slides (as well as additional explanations if needed). Feel free to navigate trough the previews hosted on this github repository to see if they may come handy. If you are interested in the full handouts, contact me (button below).
+Thank you for visiting this temporary repository! Here, you'll find **PREVIEWS of handouts** I've created to study. They are extremely useful since they speed up the process of studying on slides and make it less painful. These are not summaries or in-class notes, but well-written handouts that merge lecture recordings and slides (as well as additional explanations if needed). Feel free to navigate trough the previews hosted on this github repository to see if they may come handy. **If you are interested in the full handouts, contact me** (button below). _A small contribution may be asked_.
 
 > ### ⚠️ Important Notice
 > *  Previews serve only to see how the handouts are made and if they may be of interest.
-> * For security and privacy reasons, only **preview versions** are available in this repository. If you're interested in accessing the full materials, see the contact details below. The handouts are mostly given per person and printed.
+> * For security and privacy reasons, only **preview versions** are available in this repository. If you're interested in accessing the full materials, see the contact details below. _The handouts are mostly given per person and printed (but can be sent also), and a small contribution may be asked__.
 > *  The handouts may contain refuses, grammar and syntax error as well as conceptual errors or misunderatndings: I am human, I can make mistakes, if something does not click in your head, check it by yourself.
 
 ### 📩 Contact
